@@ -14,15 +14,17 @@
     border-radius: 20px;
 }
 .question {
-    font-size: 14px;
+    font-size: 18px;
+    height: 17px;
     color: grey;
     text-align: right;
     padding: 0 20px;
     margin-top: 40px;
 }
 .display{
-    font-size: 35px;
+    font-size: 38px;
     font-weight: 600;
+    height: 35px;
     color: black;
     text-align: right;
     padding: 0 20px;
